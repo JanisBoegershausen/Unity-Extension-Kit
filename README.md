@@ -1,5 +1,5 @@
 # Unity_HDRPShaders
-Some shaders I created with shader graph. 
+All the stuff I consider to be usefull across projects. Shaders, scripts and more.
 Feel free to use them in any way you want. Credit would be appreciated but is not necessary.
 
 ## Shaders
